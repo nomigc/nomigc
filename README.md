@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm NOMI</h1>
 <h3 align="center">I am a skilled front-end web developer with a passion for creating dynamic and engaging user interfaces.</h3>
 
-<img align="right" alt="Coding" width="400" src="banner.png">
+<img align="right" alt="Coding" width="400" src="profile.gif">
 
 - 🌱 I’m currently learning **PHP**
 
