@@ -1,4 +1,4 @@
-![logo](https://github.com/nomigc/nomigc/blob/main/banner.png)
+![logo](https://github.com/nomigc/nomigc/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm NOMI</h1>
 <h3 align="center">I am a skilled front-end web developer with a passion for creating dynamic and engaging user interfaces.</h3>
 
